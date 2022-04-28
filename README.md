@@ -13,6 +13,7 @@ HTML, CSS만을 이용하여 카카오톡 화면을 구현하였습니다.
 
 |   |   |
 |---|---|
+|not|yet|
 
 ## Tips
 - **Github Pages로 Public하는 방법**
