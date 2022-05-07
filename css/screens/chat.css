@@ -2,3 +2,9 @@
     background-color: #abc1d1;
     height: 300vh;
 }
+
+#chat-screen .alt-header {
+    position: fixed;
+    width: 100%;
+    box-sizing: border-box;
+}
