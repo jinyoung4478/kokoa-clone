@@ -4,7 +4,8 @@
     width: 100%;
     background-color: #f9f9fa;
     padding: 20px 50px;
-    box-sizing: border-box; /* Do not change the box-size*/
+    box-sizing: border-box;
+    /* Do not change the box-size*/
     border-top: 1px solid rgba(121, 121, 121, 0);
 }
 
@@ -18,8 +19,38 @@
     position: relative;
 }
 
+@keyframes notificationAnmation {
+    0% {
+        transform: none;
+    }
+
+    50% {
+        transform: translateY(-5px) rotateY(360deg);
+    }
+
+    100% {
+        transform: none;
+    }
+}
+
 .nav__notification {
     position: absolute;
     left: 15px;
     bottom: 15px;
+    animation: notificationAnmation 2s ease-in-out infinite;
+}
+
+
+@keyframes appearBtnAnimation {
+    from {
+        transform: translateY(80px);
+    }
+
+    to {
+        transform: none;
+    }
+}
+
+.nav__btn {
+    animation: appearBtnAnimation 1s ease-in-out;
 }
