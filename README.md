@@ -9,5 +9,5 @@ HTML, CSS만을 이용하여 카카오톡 화면을 구현하였습니다.
 - CSS
 
 ## 결과물
-> [코코아톡 바로가기](https://jinyoung4478.github.io/kokoa-clone/)
+
 > https://jinyoung4478.github.io/kokoa-clone/
