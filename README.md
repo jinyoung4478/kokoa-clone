@@ -1,5 +1,4 @@
 # kokoa-clone
-> [Nomad Coders](https://academy.nomadcoders.co/)의 "코코아톡 클론 코딩" 코스 결과물
 
 카카오톡 클론 코딩 프로젝트입니다.   
 HTML, CSS만을 이용하여 카카오톡 화면을 구현하였습니다.
@@ -10,5 +9,5 @@ HTML, CSS만을 이용하여 카카오톡 화면을 구현하였습니다.
 - CSS
 
 ## 결과물
-|   |   |
-|---|---|
+> [코코아톡 바로가기](https://jinyoung4478.github.io/kokoa-clone/)
+> https://jinyoung4478.github.io/kokoa-clone/
